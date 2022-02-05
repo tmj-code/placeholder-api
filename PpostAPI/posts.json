@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Title": "Try Mithril.js: A Modern JavaScript Frontend Framework",
+    "Link": "https://betterprogramming.pub/mithril-js-try-it-in-2022-you-can-start-right-here-5e87a601e700"
+  },
+  {
+    "Id": 2,
+    "Title": "Understandable Dependency Injection in JavaScript",
+    "Link": "https://betterprogramming.pub/understandable-dependency-injection-in-javascript-fab97062c34c"
+  },
+  {
+    "Id": 3,
+    "Title": "Build a Pie, Bar, Line, and Point Chart Using CSS",
+    "Link": "https://betterprogramming.pub/build-a-pie-bar-line-and-point-chart-using-css-799983a6ab3d"
+  }
+]
